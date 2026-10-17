@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="xFAULAQkAz_2C6xNj62O">
+    <mxGraphModel dx="1428" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;ThanhVien&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MaSo: Guid&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ HoTen: string&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ Email: string&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MaSV: string&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ NgayThamGia: DateTime&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TrangThai: TrangThaiThanhVien&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TaoMoi(): ThanhVien&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ DangHoatDong(): bool&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ NgungHoatDong(): void&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="204" width="200" x="95" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;CauLacBo&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MaSo: Guid&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TenCLB: string&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MoTa: string&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MaSV: string&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ NgayTao: DateTime&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TrangThai: TrangThaiCLB&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ DSthanhVien: List&amp;lt;ThanhVien&amp;gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TaoMoi(): CauLacBo&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ ThemThanhVien(ThanhVien): void&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ XoaThanhVien(MaTV): void&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="204" width="220" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;SuKien&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MaSo: Guid&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MaCLB: Guid&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TieuDe: string&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ NgayToChuc: DateTime&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ SucChua: int&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TrucTuyen: bool&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TaoMoi(): SuKien&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ ConChoTrong(): bool&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ CapNhatThongTin(): void&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="190" width="200" x="520" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;PhieuDangKy&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MaSo: Guid&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MaThanhVien: Guid&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MaSuKien: Guid&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ ThoiGianDangKy: DateTime&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TrangThai: TrangThaiDangKy&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TaoMoi(): PhieuDangKy&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ XacNhan(): void&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ HuyBo(): void&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="170" width="200" x="520" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;DiemDanh&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MaSo: Guid&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ MaPhieuDangKy: Guid&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ ThoiGianDiemDanh: DateTime&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ PhuongThuc: string&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TaoMoi(): DiemDanh&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;+ TomTat(): string&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="200" x="330" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-15" parent="1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="220" x="300" y="126" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-16" parent="1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="220" x="295" y="411" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-19" edge="1" parent="1" source="Ly1a7rvzs1LSxUVtlz-P-10" style="endArrow=none;html=1;rounded=0;entryX=0.532;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ly1a7rvzs1LSxUVtlz-P-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="399" as="sourcePoint" />
+            <mxPoint x="717" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="40" x="310" y="102" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="18" width="40" x="470" y="102" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tổ chức" vertex="1">
+          <mxGeometry height="24" width="50" x="390" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="40" x="630" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="40" x="310" y="387" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tạo" vertex="1">
+          <mxGeometry height="24" width="40" x="390" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="24" width="40" x="600" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;0..1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="40" x="430" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-30" edge="1" parent="1" source="Ly1a7rvzs1LSxUVtlz-P-12" style="endArrow=none;html=1;rounded=0;entryX=0.447;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="Ly1a7rvzs1LSxUVtlz-P-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="669" as="sourcePoint" />
+            <mxPoint x="563" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="18" width="40" x="630" y="312" as="geometry" />
+        </mxCell>
+        <mxCell id="Ly1a7rvzs1LSxUVtlz-P-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="18" width="40" x="470" y="393" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
